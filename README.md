@@ -5,6 +5,13 @@ Deployed on [Netlify](https://famous-faun-4dc8a7.netlify.app/).
 
 ---
 
+## 🖼️ Preview
+Here’s a sample of the website:
+
+![Travel Website Screenshot](Sample.png)
+
+---
+
 ## ✨ Features
 - Responsive design (mobile, tablet, desktop)
 - Animated UI elements
